@@ -22,4 +22,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <modules>
+  	<module>troncontroller.controller</module>
+  	<module>tron.model</module>
+  	<module>tron.view</module>
+  	<module>tron.contract</module>
+  	<module>tron.main</module>
+  </modules>
 </project>
